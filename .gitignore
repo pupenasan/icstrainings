@@ -1,0 +1,11 @@
+# source files
+source
+*.pdf
+*.xlsx
+*.xls
+*.doc
+*.docx
+
+
+
+
