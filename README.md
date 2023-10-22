@@ -2,6 +2,18 @@
 
 Даний репозиторій слугує путівником для вибору курсів що направлені на підготовку компетентностей в промисловій автоматизації. Ви можете приєднатися до наповнення, зареєструвавшись на GitHub і залишивши коментар в [Issues](https://github.com/pupenasan/icstrainings/issues).  
 
+## Інсуючі навчальні онлій платформи у світі
+
+- [Курси від ISA](isacourses/README.md)
+- [realpars](https://learn.realpars.com/collections)
+
+## Існуючі тренінгові центри в Україні
+
+- [Навчальний центр Innovation HUB Schneider Electric Україна](https://www.se.com/ua/uk/download/document/UAM-TRAINING-A4/)
+- [Навчальний центр SITRAIN Україна](https://www.siemens.com/ua/uk/kompaniya/navchalnyy-tsentr-sitrain-ukrayina.html)
+- [Навчальний центр Festo Didactic](https://www.festo.com/ua/uk/e/rishiennia/navchannia-ta-konsul-tatsiyi/nash-pierielik-kursiv-id_32832/)
+- [Навчання від InfocomLTD](https://ia.ua/uk/poslygu/navchannya/)
+
 ## Перелік курсів які можуть бути затребувані
 
 - вступ до автоматизації технологічних процесів [==>  ](asutp.md)
@@ -35,7 +47,10 @@
 - Теорія та практика автоматичного керування (ТАК)
   - основи ТАК
   - каскадне регулювання
-  - advanced control
+  - advanced control [==>](apc.md)
+- Математичне моделювання
+  - основи ідентифікації та моделювання
+
 - Проектування систем автоматизації (кілька курсів):
   - проектування електричних схем
   - проектування пневматичних та гідравліних схем
